@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Shubi Arun",
+        "title": "LIVE: England vs Pakistan – first T20 international cricket match",
+        "description": "England take on Pakistan at Headingley, Leeds in the first match of their T20 cricket series ahead of the T20 World Cup.",
+        "url": "https://www.aljazeera.com/sports/liveblog/2024/5/22/live-england-vs-pakistan-first-t20-international-cricket-match",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/05/2023-11-11T000000Z_1937313403_UP1EJBB0MXQ12_RTRMADP_3_CRICKET-WORLDCUP-ENG-PAK-1716388955.jpg?resize=1920%2C1440",
+        "publishedAt": "2024-05-22T15:10:55Z",
+        "content": "blinking-dot\r\nLive MatchLive Match, \r\nEngland take on Pakistan at Headingley, Leeds in the first match of their T20 cricket series ahead of the T20 World Cup."
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Rajasthan Royals v Royal Challengers Bengaluru - Cricket - BBC Sport",
+        "description": "Find out the in depth batting and bowling figures for Rajasthan Royals v Royal Challengers Bengaluru in the Indian Premier League on BBC Sport.",
+        "url": "http://www.bbc.co.uk/sport/cricket/scorecard/ECKE1220643",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2024-05-22T14:22:24.1730227Z",
+        "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(4.3 overs)</th><th>37-for0wickets</th><… [+1267 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "James Anderson: Part of me feels I could play another 10 years",
+        "description": "England bowler James Anderson says part of him feels like he could play for another 10 years, despite his upcoming retirement from Test cricket.",
+        "url": "http://www.bbc.co.uk/sport/cricket/articles/cz995yn9695o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/71fa/live/1f48a030-1823-11ef-85cb-e963500f6f32.jpg",
+        "publishedAt": "2024-05-22T12:22:15.3125889Z",
+        "content": "Key subsequently told the BBC that England's leadership trio \"think it is time to move on\".\r\nThough the decision to retire has been imposed on Anderson, he admitted that speculation over his future i… [+1057 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
